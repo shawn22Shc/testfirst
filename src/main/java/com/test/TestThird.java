@@ -9,4 +9,10 @@ package com.test;
 
 
 public class TestThird {
+
+    public static void main(String[] args) {
+        System.out.println("11111111master");
+        System.out.println("local");
+    }
+
 }
